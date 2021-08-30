@@ -1,0 +1,20 @@
+{
+  "welcome_text": "Welcome to our app",
+  "textSplash1": "Welcome to Tokoto, Let’s shop!",
+  "textSplash2": "We help people conect with store around United State of America",
+  "textSplash3": "We show the easy way to shop. Just stay at home with us",
+  "signIn": "Sign In",
+  "titleSignIn": "Welcome Back",
+  "subTitleSignIn": "Sign in with your email and password  or continue with social media",
+  "email": "Email",
+  "emailHint": "Enter your Email",
+  "password": "Password",
+  "passwordHint": "Enter your password",
+  "remremberText": "Remember Me",
+  "forget": "Forget Password",
+  "submit": "Submit",
+  "copyRight": "Dont have an acouunt ? ",
+  "SignUp": "Sign Up",
+  "hintForget": "Please enter your email and we will send you a link to return to your account",
+  "continue": "Continue"
+}
